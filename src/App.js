@@ -50,6 +50,7 @@ export default function App() {
           className="responsive-cell-block wk-tab-12 wk-mobile-12 wk-desk-7 wk-ipadp-10 line"
           id="i69b"
         >
+         //comment <form className="form-box"action="https://formz.in/api/task" method="post"></form> I have to add this only to post data on the server
           <form className="form-box">
             <div className="container-block form-wrapper">
               <div className="responsive-container-block">
